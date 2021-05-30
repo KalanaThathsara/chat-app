@@ -9,7 +9,7 @@ public class ChatClient2 {
         Client client = new Client();
         client.start();
 
-        client.sendMessage("Hello From the client");
+        client.sendMessage("Hello From the client 2");
         client.sendMessage("How are you?");
         client.sendMessage("I'm fine");
         client.sendMessage("Thank you");
@@ -19,3 +19,4 @@ public class ChatClient2 {
 
     }
 }
+
